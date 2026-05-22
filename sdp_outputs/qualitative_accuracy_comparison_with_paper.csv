@@ -1,0 +1,8 @@
+Dataset,Paper Best Accuracy Model(s),Paper Best Accuracy,Notebook Best Accuracy Model(s),Notebook Best Accuracy
+PC1,RF,0.91,RF,0.9129211403184007
+PC3,RF / AdaBoost-RF / Bagging-DS,0.84,"AdaBoost-RF, RF",0.8462218515429525
+PC4,RF,0.9,RF,0.9021263091082196
+JM1,AdaBoost-DS,0.78,RF,0.8050266119221412
+MC1,RF / AdaBoost-RF / Bagging-RF,0.97,Bagging-RF,0.9927890097273664
+MC2,Bagging-DS,0.75,Bagging-DS,0.7108974358974359
+CM1,RF / Bagging-DS,0.83,RF,0.8315966386554623

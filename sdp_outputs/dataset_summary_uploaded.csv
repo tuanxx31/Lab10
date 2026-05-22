@@ -1,0 +1,11 @@
+Dataset,Modules,Defective Modules,Non-defective Modules,Defect Ratio (%),Attributes,Missing Values,Target
+CM1,344,42,302,12.21,37,0,Defective
+JM1,9591,1759,7832,18.34,21,0,label
+KC1,2095,325,1770,15.51,21,0,Defective
+MC1,8737,68,8669,0.78,38,0,Defective
+MC2,125,44,81,35.2,39,0,Defective
+MW1,263,27,236,10.27,37,0,Defective
+PC1,735,61,674,8.3,37,0,Defective
+PC2,1493,16,1477,1.07,36,0,Defective
+PC3,1099,138,961,12.56,37,0,Defective
+PC4,1379,178,1201,12.91,37,0,Defective
